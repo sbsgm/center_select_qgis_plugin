@@ -8,7 +8,7 @@ Plugin for centering and selecting features in Qgis
 ```
 pip install pb-tool
 ```
-2. Modify shearch for the plugin_path on the pb_tool.cfg file and modify if needed.
+2. Search for the plugin_path on the pb_tool.cfg file and modify if needed.
 ```
 # Full path to where you want your plugin directory copied. If empty,
 # the QGIS default path will be used. Don't include the plugin name in
