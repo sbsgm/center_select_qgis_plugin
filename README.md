@@ -2,7 +2,7 @@
 Plugin for centering and selecting features in Qgis
 
 
-### Instalation instructions
+### Installation instructions
 
 1. Make sure you have pb tool install on your system python or environment.
 ```
