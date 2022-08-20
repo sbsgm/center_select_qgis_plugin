@@ -16,7 +16,7 @@ pip install pb-tool
 plugin_path: your/home/path/to/QGIS/user/python/plugins/directory
 
 ```
-3. Open a terminal on the center_select folder.
+3. Open a terminal in the center_select folder.
 4. Deploy the plugin to QGIS plugin path directory.
 ```
 pb_tool deploy
